@@ -7,7 +7,7 @@ while working in the MSK Proteomics Core facility.
 
 | Description | Link | Image |
 | - | - | - |
-| 0.2 mL PCR strip magnetic rack | [Link](Designs/Racks_Stands_Holders/)
+| 0.2 mL PCR strip magnetic rack | [Link](Designs/Racks_Stands_Holders/PCR_strip_magnetic_rack)
 | 50/15/1.5 mL tube combo stand | [Link](Designs/Racks_Stands_Holders/50-15-1.5mL_combo_stand/)
 | PCR strip rack (96x), Opentrons compatible | [Link](Designs/Racks_Stands_Holders/PCR_strip_96_rack/)
 | StageTip high-throughput adaptor plate | [Link](Designs/Racks_Stands_Holders/StageTip_adaptor_plate/)
