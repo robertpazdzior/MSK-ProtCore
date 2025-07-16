@@ -1,6 +1,6 @@
 # Opentrons P300M Gen2 Replacement Carriage
 
-Repaired a broken Opentrons pipette by replacing a broken carraige.
+Repaired an Opentrons pipette by replacing a broken carraige.
 
 Files and additional docs available on Printables:
 
